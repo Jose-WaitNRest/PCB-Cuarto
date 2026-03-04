@@ -1,0 +1,26 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "118ffa26-3c65-424a-af71-04338c4de0b0")
+	(paper "A4")
+	(lib_symbols)
+	(text "- ENTRADA DE ALIMENTACION 24V\n- CONTROL DE CHAPA DE 12V@0.2A\n- CONEXION RS485 EN FORMATO DAYSI CHAIN\n- UPDATE DEL FIRMWARE POR OTTA\n- CONECTORES DEBEN RECIBIR HASTA CABLE 12"
+		(exclude_from_sim no)
+		(at 91.948 -13.208 0)
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.6)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "6f4d0bd5-e1ba-41da-8678-2f48fe85f5b4")
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
