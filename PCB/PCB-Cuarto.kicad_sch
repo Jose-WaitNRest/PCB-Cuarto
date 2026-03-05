@@ -5,6 +5,16 @@
 	(uuid "118ffa26-3c65-424a-af71-04338c4de0b0")
 	(paper "A4")
 	(lib_symbols)
+	(wire
+		(pts
+			(xy 106.426 88.9) (xy 132.588 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ef435eb-0b0c-4d34-abf9-0015bd23c9fe")
+	)
 	(text "- ENTRADA DE ALIMENTACION 24V\n- CONTROL DE CHAPA DE 12V@0.2A\n- CONEXION RS485 EN FORMATO DAYSI CHAIN\n- UPDATE DEL FIRMWARE POR OTTA\n- CONECTORES DEBEN RECIBIR HASTA CABLE 12"
 		(exclude_from_sim no)
 		(at 91.948 -13.208 0)
@@ -49,6 +59,16 @@
 				(justify left top)
 			)
 		)
+		(pin "FLT" input
+			(at 132.588 88.9 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "992bacd0-b5c3-4c23-8cbb-fad0bca6643e")
+		)
 		(instances
 			(project "PCB-Cuarto"
 				(path "/118ffa26-3c65-424a-af71-04338c4de0b0"
@@ -87,6 +107,16 @@
 				)
 				(justify left top)
 			)
+		)
+		(pin "FLT" output
+			(at 106.426 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "19be22ba-4a3b-4e72-9ae7-ecef0a696be3")
 		)
 		(instances
 			(project "PCB-Cuarto"
