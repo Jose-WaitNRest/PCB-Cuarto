@@ -386,6 +386,18 @@
     [
       "118ffa26-3c65-424a-af71-04338c4de0b0",
       "Root"
+    ],
+    [
+      "e2751aaa-40ab-491e-8724-b4cb7cd2712b",
+      "POWER"
+    ],
+    [
+      "d482c9b0-d3dc-4677-8cda-69da6efb5749",
+      "MCU"
+    ],
+    [
+      "f6cc8bac-4400-4ee5-8b53-8fb1b71d0580",
+      "PERIPHERALS"
     ]
   ],
   "text_variables": {}
