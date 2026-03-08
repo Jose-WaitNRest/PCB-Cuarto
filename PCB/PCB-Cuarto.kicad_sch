@@ -7,13 +7,203 @@
 	(lib_symbols)
 	(wire
 		(pts
-			(xy 106.426 88.9) (xy 132.588 88.9)
+			(xy 245.872 77.978) (xy 256.794 77.978)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b0f60a2-f723-4787-8121-1baef18467c4")
+	)
+	(wire
+		(pts
+			(xy 245.872 82.55) (xy 250.444 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f71f2e8-595d-44b0-957c-88f5a1e64555")
+	)
+	(wire
+		(pts
+			(xy 132.588 89.408) (xy 128.016 89.408)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1bcac3ce-878e-4c9c-a150-ad985aa0bb3d")
+	)
+	(wire
+		(pts
+			(xy 106.426 100.33) (xy 132.588 100.33)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "2ef435eb-0b0c-4d34-abf9-0015bd23c9fe")
+	)
+	(wire
+		(pts
+			(xy 245.872 91.44) (xy 250.444 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "326ab7d0-523b-4acc-a4f0-b4e49aedd955")
+	)
+	(wire
+		(pts
+			(xy 132.588 92.964) (xy 128.016 92.964)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "504b5e57-e710-4f8e-ade1-84fa518d863c")
+	)
+	(wire
+		(pts
+			(xy 245.872 95.504) (xy 250.444 95.504)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e5e5acc-baf6-4b76-9aa1-351cefddebde")
+	)
+	(wire
+		(pts
+			(xy 132.588 77.978) (xy 121.666 77.978)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6149120f-add3-4f3b-a93e-e8620e198d6a")
+	)
+	(wire
+		(pts
+			(xy 200.66 78.232) (xy 177.8 78.232)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "794a4cea-f0fb-40bb-82dc-680fbba34102")
+	)
+	(wire
+		(pts
+			(xy 155.194 72.39) (xy 155.194 74.422)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "82ba5ce3-7d98-4a79-89da-1d0fadaee9e7")
+	)
+	(wire
+		(pts
+			(xy 132.588 96.52) (xy 128.016 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8306d91b-6b36-428c-84b2-2450bc4b6975")
+	)
+	(wire
+		(pts
+			(xy 177.8 90.17) (xy 200.66 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "956b5b7c-2619-40e6-a8a4-07140c8948e4")
+	)
+	(wire
+		(pts
+			(xy 177.8 99.822) (xy 200.66 99.822)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "97a7922f-eb8f-438a-9912-2c8509d5ac37")
+	)
+	(wire
+		(pts
+			(xy 177.8 84.582) (xy 200.66 84.582)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9bb714ae-b42f-4cfb-adec-d7753b3c0a50")
+	)
+	(wire
+		(pts
+			(xy 83.312 72.39) (xy 83.312 74.422)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e1baf26-1ef1-4df0-b50d-45a089208030")
+	)
+	(wire
+		(pts
+			(xy 132.588 81.788) (xy 128.016 81.788)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2e52d91-a882-4c39-86f9-d221d126403f")
+	)
+	(wire
+		(pts
+			(xy 245.872 99.822) (xy 250.444 99.822)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa3c261e-37cf-45ae-a391-9f9aaccdfd49")
+	)
+	(wire
+		(pts
+			(xy 245.872 87.122) (xy 250.444 87.122)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e67ee297-eea5-404d-a23e-433cda307054")
+	)
+	(wire
+		(pts
+			(xy 132.588 85.598) (xy 128.016 85.598)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea4dd52d-c73a-48e4-9fe3-ebfab9269c9b")
+	)
+	(wire
+		(pts
+			(xy 177.8 95.25) (xy 200.66 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe0125c8-8f67-42c6-9c08-08dc4f695949")
 	)
 	(text "- ENTRADA DE ALIMENTACION 24V\n- CONTROL DE CHAPA DE 12V@0.2A\n- CONEXION RS485 EN FORMATO DAYSI CHAIN\n- UPDATE DEL FIRMWARE POR OTTA\n- CONECTORES DEBEN RECIBIR HASTA CABLE 12"
 		(exclude_from_sim no)
@@ -27,6 +217,160 @@
 			(justify left)
 		)
 		(uuid "6f4d0bd5-e1ba-41da-8678-2f48fe85f5b4")
+	)
+	(label "ID2"
+		(at 250.444 87.122 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "007a8e94-7851-49e6-b73c-b2279a2069cf")
+	)
+	(label "ID3"
+		(at 250.444 91.44 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "28e1f16c-4cc2-4324-9903-cc124b0b3d14")
+	)
+	(label "ID4"
+		(at 250.444 95.504 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2bb73425-d181-461e-b3b6-b3203446481c")
+	)
+	(label "12V_5V"
+		(at 155.194 72.39 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3b2f10e1-906e-416e-a485-a26e9f94d0d8")
+	)
+	(label "ID2"
+		(at 128.016 85.598 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4b28a03f-e22d-4843-a21f-3959d995a65d")
+	)
+	(label "ID3"
+		(at 128.016 89.408 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6e4cb271-16fa-4645-8159-4685de759ff6")
+	)
+	(label "ID4"
+		(at 128.016 92.964 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6f17ea90-9c26-423f-a3e1-ca4570a5be94")
+	)
+	(label "ID5"
+		(at 250.444 99.822 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "80cb9ba6-9d93-4d7c-963a-04b2213c6f9b")
+	)
+	(label "ID1"
+		(at 250.444 82.55 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "81c788ac-9130-4dfe-b6bc-ca2fc7afb058")
+	)
+	(label "ID5"
+		(at 128.016 96.52 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "837a309a-d45e-404e-8917-6756a6832ec5")
+	)
+	(label "ID1"
+		(at 128.016 81.788 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a1e1dba0-45d9-466b-b835-950a9d41a653")
+	)
+	(label "RS485_EN"
+		(at 121.666 77.978 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c8e42ca4-5b68-438b-95b1-a0e44c868e99")
+	)
+	(label "12V_5V"
+		(at 83.312 72.39 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e72f2e94-9765-4a90-8587-8c9c197b2320")
+	)
+	(label "RS485_EN"
+		(at 256.794 77.978 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f69fbb00-9232-4c87-b34c-487f458ac23c")
 	)
 	(sheet
 		(at 132.588 74.422)
@@ -60,7 +404,7 @@
 			)
 		)
 		(pin "FLT" input
-			(at 132.588 88.9 180)
+			(at 132.588 100.33 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -68,6 +412,126 @@
 				(justify left)
 			)
 			(uuid "992bacd0-b5c3-4c23-8cbb-fad0bca6643e")
+		)
+		(pin "DOOR_EN" output
+			(at 177.8 78.232 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "1b59e9e3-6aed-4ca9-9159-3b5aee9fe982")
+		)
+		(pin "DOOR_DIAG_EN" output
+			(at 177.8 84.582 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "292e2503-7d43-49a3-828c-92d9c1b447ad")
+		)
+		(pin "DOOR_FAULT" input
+			(at 177.8 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d808d084-1ddb-4817-9d6f-f73d2eb9a26a")
+		)
+		(pin "ID3" input
+			(at 132.588 89.408 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "bd55ae16-8bd3-4e0c-9b9c-3b134bf9e927")
+		)
+		(pin "RX" input
+			(at 177.8 99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "ff63648c-7ca6-4c3c-86e7-b1879e6dc79a")
+		)
+		(pin "ID5" input
+			(at 132.588 96.52 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "ea17dfd6-1b05-4460-a282-4f7a3c99a46a")
+		)
+		(pin "ID2" input
+			(at 132.588 85.598 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "989671e2-555b-43d5-85ca-da4de858158f")
+		)
+		(pin "ID4" input
+			(at 132.588 92.964 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "41a606c9-b23e-46ea-a624-51045da97527")
+		)
+		(pin "TX" output
+			(at 177.8 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "92900f61-bf08-4213-989b-e486d3857257")
+		)
+		(pin "RS485_EN" output
+			(at 132.588 77.978 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "1fdef902-0889-4438-bd9f-1de8efb36cb2")
+		)
+		(pin "ID1" input
+			(at 132.588 81.788 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "521c7995-a88c-40a8-a494-4bbc32090348")
+		)
+		(pin "12V_5V" output
+			(at 155.194 74.422 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "08d7d0e9-3e85-4959-ad60-73292917299b")
 		)
 		(instances
 			(project "PCB-Cuarto"
@@ -109,7 +573,7 @@
 			)
 		)
 		(pin "FLT" output
-			(at 106.426 88.9 0)
+			(at 106.426 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -117,6 +581,16 @@
 				(justify right)
 			)
 			(uuid "19be22ba-4a3b-4e72-9ae7-ecef0a696be3")
+		)
+		(pin "12V_5V" input
+			(at 83.312 74.422 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "c9cde513-5821-4d21-a09b-5c4ede65582c")
 		)
 		(instances
 			(project "PCB-Cuarto"
@@ -156,6 +630,116 @@
 				)
 				(justify left top)
 			)
+		)
+		(pin "DOOR_EN" input
+			(at 200.66 78.232 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "1fde9900-5da3-45ee-8726-6b3343d2e7be")
+		)
+		(pin "DOOR_DIAG_EN" input
+			(at 200.66 84.582 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "2c168269-b147-4f4d-a234-57dda55aa124")
+		)
+		(pin "DOOR_FAULT" output
+			(at 200.66 90.17 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "e446ac72-e94d-4c39-8198-1d84b49a6ecc")
+		)
+		(pin "ID3" output
+			(at 245.872 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "b0cc4d46-6138-4af3-9131-9dc1e871a950")
+		)
+		(pin "ID4" output
+			(at 245.872 95.504 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "597ab122-595c-4a94-8472-4cdb078f1aa0")
+		)
+		(pin "ID2" output
+			(at 245.872 87.122 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "73876b96-0f3c-4f76-9da5-898eb2c77575")
+		)
+		(pin "ID5" output
+			(at 245.872 99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "9e4218a3-6f78-4166-b4dc-9d8d00cf2119")
+		)
+		(pin "ID1" output
+			(at 245.872 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "a77cd646-3dac-4987-9598-8fb9dfda348b")
+		)
+		(pin "RX" output
+			(at 200.66 99.822 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "ecb37e01-e725-42f6-829e-bdcd96e707dd")
+		)
+		(pin "TX" input
+			(at 200.66 95.25 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "267e05f9-49c1-419a-b0cd-5c370c4296c9")
+		)
+		(pin "RS485_EN" input
+			(at 245.872 77.978 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "c8284cca-df3e-4159-8815-92c3f332ff37")
 		)
 		(instances
 			(project "PCB-Cuarto"
