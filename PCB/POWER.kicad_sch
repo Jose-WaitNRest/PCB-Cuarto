@@ -5331,7 +5331,7 @@
 	)
 	(rectangle
 		(start 187.198 101.854)
-		(end 267.716 138.938)
+		(end 277.876 138.938)
 		(stroke
 			(width 0.2)
 			(type dash)
@@ -6739,7 +6739,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MDA5030-4R7M:MDA5030-4R7M"
 			(at 210.82 61.722 0)
 			(effects
 				(font
@@ -7014,8 +7014,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "878b68e2-fdc7-41e4-9a98-bf9bae3875cd")
-		(property "Reference" "J1"
-			(at 26.67 56.642 0)
+		(property "Reference" "J100"
+			(at 26.67 55.88 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -7023,7 +7023,7 @@
 			)
 		)
 		(property "Value" "2604-3102"
-			(at 26.67 59.182 0)
+			(at 26.67 58.42 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -7074,7 +7074,7 @@
 		(instances
 			(project ""
 				(path "/118ffa26-3c65-424a-af71-04338c4de0b0/e2751aaa-40ab-491e-8724-b4cb7cd2712b"
-					(reference "J1")
+					(reference "J100")
 					(unit 1)
 				)
 			)
@@ -7517,7 +7517,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "98362063-48e3-4e6b-9665-cc99d5ffed27")
-		(property "Reference" "TP101"
+		(property "Reference" "TP102"
 			(at 247.142 52.832 0)
 			(effects
 				(font
@@ -7569,7 +7569,7 @@
 		(instances
 			(project "PCB-Cuarto"
 				(path "/118ffa26-3c65-424a-af71-04338c4de0b0/e2751aaa-40ab-491e-8724-b4cb7cd2712b"
-					(reference "TP101")
+					(reference "TP102")
 					(unit 1)
 				)
 			)
@@ -7998,6 +7998,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 271.272 117.094 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9c9d14b3-829b-4385-a053-327c84255e47")
+		(property "Reference" "TP104"
+			(at 268.224 111.506 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 272.542 115.062 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+			(at 276.352 117.094 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 276.352 117.094 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 271.272 117.094 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ff02e7d7-52c6-4849-93a1-549eb60cb1b3")
+		)
+		(instances
+			(project "PCB-Cuarto"
+				(path "/118ffa26-3c65-424a-af71-04338c4de0b0/e2751aaa-40ab-491e-8724-b4cb7cd2712b"
+					(reference "TP104")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 64.262 72.898 0)
 		(unit 1)
@@ -8122,6 +8189,73 @@
 			(project "PCB-Cuarto"
 				(path "/118ffa26-3c65-424a-af71-04338c4de0b0/e2751aaa-40ab-491e-8724-b4cb7cd2712b"
 					(reference "#PWR015")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 145.796 57.658 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a86f24b8-3756-4c21-8c76-4320b6c604c4")
+		(property "Reference" "TP101"
+			(at 142.748 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 147.066 55.626 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+			(at 150.876 57.658 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 150.876 57.658 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 145.796 57.658 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "992a5253-29ad-469d-828b-776c1e15589b")
+		)
+		(instances
+			(project "PCB-Cuarto"
+				(path "/118ffa26-3c65-424a-af71-04338c4de0b0/e2751aaa-40ab-491e-8724-b4cb7cd2712b"
+					(reference "TP101")
 					(unit 1)
 				)
 			)
@@ -8579,6 +8713,71 @@
 			(project "PCB-Cuarto"
 				(path "/118ffa26-3c65-424a-af71-04338c4de0b0/e2751aaa-40ab-491e-8724-b4cb7cd2712b"
 					(reference "C107")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 271.272 117.094 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d4a8d6e7-ad9a-459d-8ec1-e2baffc5b292")
+		(property "Reference" "#PWR069"
+			(at 271.272 123.444 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 271.272 120.904 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 271.272 117.094 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 271.272 117.094 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 271.272 117.094 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c98a17cc-b15f-4c66-b1b9-733b5e4ab5ab")
+		)
+		(instances
+			(project "PCB-Cuarto"
+				(path "/118ffa26-3c65-424a-af71-04338c4de0b0/e2751aaa-40ab-491e-8724-b4cb7cd2712b"
+					(reference "#PWR069")
 					(unit 1)
 				)
 			)
@@ -9204,6 +9403,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 145.796 57.658 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e83155c0-cf32-46c5-907c-66f6c591e900")
+		(property "Reference" "#PWR068"
+			(at 145.796 64.008 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 145.796 61.468 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 145.796 57.658 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 145.796 57.658 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 145.796 57.658 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "82c46ba5-6b88-40b0-8ba5-bee3b309fc76")
+		)
+		(instances
+			(project "PCB-Cuarto"
+				(path "/118ffa26-3c65-424a-af71-04338c4de0b0/e2751aaa-40ab-491e-8724-b4cb7cd2712b"
+					(reference "#PWR068")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 125.222 101.6 180)
 		(unit 1)
@@ -9230,7 +9494,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 124.2568 97.79 0)
 			(effects
 				(font
@@ -9257,7 +9521,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C14663"
 			(at 125.222 101.6 0)
 			(effects
 				(font
@@ -9290,7 +9554,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ee87cd61-5724-46e7-acc3-766c5a8c44ba")
-		(property "Reference" "TP102"
+		(property "Reference" "TP103"
 			(at 248.412 107.95 0)
 			(effects
 				(font
@@ -9342,7 +9606,7 @@
 		(instances
 			(project "PCB-Cuarto"
 				(path "/118ffa26-3c65-424a-af71-04338c4de0b0/e2751aaa-40ab-491e-8724-b4cb7cd2712b"
-					(reference "TP102")
+					(reference "TP103")
 					(unit 1)
 				)
 			)
