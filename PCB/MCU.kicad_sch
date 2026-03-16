@@ -6006,136 +6006,6 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "Molex"
-			(at 198.628 74.168 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "3.16 mm"
-			(at 198.628 74.168 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "None"
-			(at 198.628 74.168 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 198.628 74.168 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/217179-0001/Molex/view-part/?ref=eda"
-			(at 198.628 74.168 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 198.628 74.168 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "A1"
-			(at 198.628 74.168 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/217179-0001/Molex/view-part/?ref=snap"
-			(at 198.628 74.168 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "217179-0001"
-			(at 198.628 74.168 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=5817784&manufacturer=Molex&part_name=217179-0001&search_term=None"
-			(at 198.628 74.168 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "\nUSB Type C - Connector, Top-mount SMT, 16pos | Molex Incorporated 217179-0001\n"
-			(at 198.628 74.168 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 198.628 74.168 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Molex"
-			(at 198.628 74.168 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C3197684"
 			(at 198.628 74.168 0)
 			(effects
@@ -7731,8 +7601,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b7c6413d-71b8-486f-b2b3-8212eed4c381")
-		(property "Reference" "J2"
-			(at 174.498 117.602 0)
+		(property "Reference" "J201"
+			(at 174.498 116.84 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -7740,7 +7610,7 @@
 			)
 		)
 		(property "Value" "2086-1104"
-			(at 174.498 120.142 0)
+			(at 174.498 119.38 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -7803,7 +7673,7 @@
 		(instances
 			(project ""
 				(path "/118ffa26-3c65-424a-af71-04338c4de0b0/d482c9b0-d3dc-4677-8cda-69da6efb5749"
-					(reference "J2")
+					(reference "J201")
 					(unit 1)
 				)
 			)

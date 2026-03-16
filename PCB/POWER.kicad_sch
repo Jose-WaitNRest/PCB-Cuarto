@@ -8626,7 +8626,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:CP_Elec_16x17.5"
+		(property "Footprint" "VKMI1701H102MV:VKMI1701H102MV"
 			(at 128.778 73.152 0)
 			(effects
 				(font
@@ -8878,7 +8878,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420339"
+		(property "LCSC" "C40912"
 			(at 82.042 77.47 0)
 			(effects
 				(font
