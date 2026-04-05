@@ -5933,6 +5933,16 @@
 		)
 		(uuid "b0b38693-d0c4-493c-95f5-b5ef113106af")
 	)
+	(text "1A LIMITE"
+		(exclude_from_sim no)
+		(at 81.026 50.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c2ed223f-82d8-4c64-a656-95c8153d217c")
+	)
 	(text "12V@200mA"
 		(exclude_from_sim no)
 		(at 144.272 39.878 0)
