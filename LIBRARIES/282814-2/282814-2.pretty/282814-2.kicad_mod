@@ -1,0 +1,238 @@
+(footprint "282814-2"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(tags "282814-2 ")
+	(property "Reference" "REF**"
+		(at 2.250001 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "20ac6242-9272-4065-b731-a087c37495f7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CONN2_282814-2"
+		(at 2.250001 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "d58c0b4d-644f-4247-a7d4-c6ee982eca0e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f936dee2-cabe-4235-b0fd-4ff3dcd775dc")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ae1d698d-545b-43f8-a3c9-06c27c43f275")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a1208937-42a6-46b4-a5c0-ef67f5cee0cf")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -3.206999 -2.127)
+		(end -3.206999 10.126998)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ff11b76a-65ae-4538-8e97-965d17513e81")
+	)
+	(fp_line
+		(start -3.206999 10.126998)
+		(end 7.707 10.126998)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "26c43918-104e-42d8-a380-7c20a77f5b30")
+	)
+	(fp_line
+		(start 7.707 -2.127)
+		(end -3.206999 -2.127)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d4b3e521-9edf-4480-b17d-61b1b12b2f19")
+	)
+	(fp_line
+		(start 7.707 10.126998)
+		(end 7.707 -2.127)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d197f333-0711-4677-9a1b-5fbfd3ab6f44")
+	)
+	(fp_line
+		(start -3.333999 -2.254)
+		(end -3.333999 10.253998)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a9b3e8eb-b0cc-477d-a8d4-cd188ad601ab")
+	)
+	(fp_line
+		(start -3.333999 10.253998)
+		(end 7.834 10.253998)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8bbb1954-ac6e-400b-a511-8cfa1585ec33")
+	)
+	(fp_line
+		(start 7.834 -2.254)
+		(end -3.333999 -2.254)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "dc4cf35c-bb5c-47fc-a250-170292d58207")
+	)
+	(fp_line
+		(start 7.834 10.253998)
+		(end 7.834 -2.254)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9781d899-4a9f-403d-834d-8d1aa667079d")
+	)
+	(fp_line
+		(start -3.079999 -2)
+		(end -3.079999 9.999998)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3e3947e3-b549-4ccc-83ea-cf31bee19792")
+	)
+	(fp_line
+		(start -3.079999 9.999998)
+		(end 7.58 9.999998)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cd7e8def-1092-4786-93d9-491f4e241ffb")
+	)
+	(fp_line
+		(start 7.58 -2)
+		(end -3.079999 -2)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "849037ef-bbc5-452c-b93e-e75e70e47237")
+	)
+	(fp_line
+		(start 7.58 9.999998)
+		(end 7.58 -2)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "abe0e3e5-c111-410b-bfa5-864c8de26158")
+	)
+	(fp_circle
+		(center 0 -1.905)
+		(end 0.381 -1.905)
+		(stroke
+			(width 0.508)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "32e8d45e-7329-4ddb-b5c2-7b91c71790d1")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 2.250001 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "bdade0a5-27fb-4a51-8913-a3163df62b22")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 2.5 2.5)
+		(drill 1.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7ca7a905-337b-4ca5-9627-82ecfbf37f05")
+	)
+	(pad "2" thru_hole circle
+		(at 5.08 0)
+		(size 2.5 2.5)
+		(drill 1.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "375572bc-e186-4697-b702-c2c4801fd3c2")
+	)
+	(model "D:/Trabajo_WNR/Business Center/Sistema Domotico/Placa Electronica/PCB-Cuarto/LIBRARIES/282814-2/282814-2.pretty/282814-2.stp"
+		(offset
+			(xyz 2.5 -10 4)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)
